@@ -16,7 +16,7 @@ The organization of this repository was inspired by the repository of a Thesis o
 This stage consists of researching the existing problems and needs of users during city walks, city exploration, and tourism experience. The folder includes the proofs of the user and stakeholder ([Head of the Tourism Department of the Economic Development Department of the Lviv City Council](https://city-adm.lviv.ua/lmr/profiles/office/lebed-khrystyna-petrivna/)) interviews, the goals of the user interview, and the script of the stakeholder interview.
 
 ### Definition
-This stage consists of grouping problems and needs among three personas with different roles. The folder includes user personas and Value Proposition canvases for each persona.
+This stage consists of grouping problems and needs among three personas with different roles. The folder includes user personas.
 
 ### Ideation
 This stage consists of generating ideas for the solution with different methodologies: SCAMPER, Octalysis Framework, and Crazy-8. The folder contains files with the results of these methods.
@@ -25,4 +25,4 @@ This stage consists of generating ideas for the solution with different methodol
 This stage consists of creating a low-fidelity prototype for the hypothetical solution. The folder contains the main point-of-interest screens for the prototype.
 
 ### Testing
-This stage consists of testing the proposed solution. The folder contains the proofs of the credibiluity of testings and the SUS questionnaire results.
+This stage consists of testing the proposed solution. The folder contains the proofs of the credibility of testing and the SUS questionnaire results.
